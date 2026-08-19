@@ -12,3 +12,4 @@ wheels/
 # Jupyter Notebook checkpoints and autosaves
 .ipynb_checkpoints/
 .virtual_documents/
+*.csv
